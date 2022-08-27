@@ -27,6 +27,7 @@ payload:
   - '+.bilive.com'
   - '+.bilivideo.com'
   - '+.biliyu.com'  
+  - '+.hdslb.com'    
   - '+.douyu.com'
   - '+.douyu.tv'
   - '+.douyuscdn.com'
